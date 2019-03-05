@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CoopTest
 {
-    class Class1
+    class TestClass
+
     {
         string s = "Интуит говно";
     }
