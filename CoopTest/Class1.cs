@@ -8,5 +8,6 @@ namespace CoopTest
 {
     class Class1
     {
+        string s = "Интуит говно";
     }
 }
